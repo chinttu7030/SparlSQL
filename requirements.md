@@ -1,0 +1,5 @@
+- java 8
+- scala sdk 2.11 capable of running Spark 2.x
+- sbt version 1 or above
+- IDE of your choice (developed in IntelliJ)
+- git
